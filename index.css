@@ -10,7 +10,7 @@ body {
 /* Custom styles for the header */
 
 .header {
-    background-color: #5432fe;
+    background-color: #3be1ed;
     /* Green background color */
     color: white;
     /* Text color */
@@ -59,22 +59,22 @@ body {
 }
 
 .header .btn-primary {
-    background-color: #f0f0f0;
+    background-color: #2742bd;
     /* Light background color for search button */
-    color: #3515e6;
+    color: #e2e5e3;
     /* Green text color for search button */
-    border-color: #f0f0f0;
+    border-color: #0a0c0c;
     /* Light border color for search button */
     border-radius: 20px;
     /* Rounded corners for search button */
 }
 
 .header .btn-primary:hover {
-    background-color: #3a55ee;
+    background-color: #0653f9;
     /* Darker green on hover for search button */
-    border-color: #22e42c;
+    border-color: #10f5d6;
     /* Darker border color on hover for search button */
-    color: white;
+    color: rgb(235, 227, 227);
     /* Text color on hover for search button */
 }
 
@@ -98,7 +98,7 @@ body {
 
 
 .footer {
-    background-color: #1b6beb;
+    background-color: #3be1ed;
     color: white;
     font-style: oblique;
     text-align: center;
@@ -261,8 +261,8 @@ p {
 }
 
 .footer {
-    background-color: #1b6beb;
-    color: white;
+    background-color: #3be1ed;
+    color:#080808;
 }
 
 .footer h5 {
@@ -272,7 +272,7 @@ p {
 
 .footer p,
 .footer a {
-    color: white;
+    color:#0a0c0c;
 }
 
 .footer a {
@@ -281,7 +281,7 @@ p {
 }
 
 .footer a:hover {
-    color: #d4f3d8;
+    color:#080808;
 }
 
 .footer .list-unstyled {
